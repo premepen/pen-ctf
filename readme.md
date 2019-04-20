@@ -1,3 +1,7 @@
+## CTF
+
+- [CTF学习建议](https://github.com/premepen/pen-ctf/blob/master/posts/src2.md)
+
 ## CTF靶场环境
 
 - [CTF-靶场合集](https://www.freebuf.com/author/%E9%99%8C%E5%BA%A6)
